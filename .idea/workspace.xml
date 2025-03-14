@@ -5,24 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0de85607-4a1e-4f41-a681-25db03260659" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/inventory_and_stock_management_system_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/META-INF/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/dashboard.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inventory-and-stock-management-system.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inventory-and-stock-management-system.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/servlets/LoginServlets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/LoginServlets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/servlets/SignupServlets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlets/SignupServlets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/FileHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741963651227</updated>
-      <workItem from="1741963652562" duration="4102000" />
+      <workItem from="1741963652562" duration="4705000" />
     </task>
     <servers />
   </component>

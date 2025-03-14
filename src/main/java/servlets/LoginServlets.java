@@ -18,8 +18,6 @@ public class LoginServlet extends HttpServlet {
             if (user.getUsername().equals(username) && user.getPassword().equals(password)) {
                 HttpSession session = request.getSession();
                 session.setAttribute("user", username);
-
-                // Redirect to profile page
                 response.sendRedirect("profile.html");
                 return;
             }
