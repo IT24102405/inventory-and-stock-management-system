@@ -1,22 +1,25 @@
+
 body {
-
+    background: url('images/hero.jpg') no-repeat center center fixed;
     background-size: cover;
-    background-position: center;
 }
 
+
+/* Center the login card */
 .container {
-    max-width: 400px;
-    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full height of the screen */
 }
 
+/* Style the login card */
 .card {
-    background: rgba(255, 255, 255, 0.9);
+    background: rgba(255, 255, 255, 0.8); /* Transparent white background */
     border-radius: 10px;
+    backdrop-filter: blur(5px); /* Glass effect */
+
+
+
+
 }
-
-.profile-details p {
-    font-size: 18px;
-    margin: 10px 0;
-}
-
-
