@@ -1,0 +1,24 @@
+/* Custom Styles for Products Page */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Card Styling */
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+/* Product Price */
+.price {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #28a745;
+}
